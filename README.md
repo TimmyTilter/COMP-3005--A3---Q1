@@ -8,4 +8,4 @@ Setup Instructions:
 4. Execute queries to update data (demonstrated in video)
 5. Execute Python file for database connection and CRUD operations (demonstrated in video)
 
-Link to video: 
+Link to video: https://youtu.be/QVusfZknxg4
